@@ -20,5 +20,7 @@ If it was needed "pretty fast" but not instantaneously, I'd probably have implem
 
 ## Other Stuff
 [iOS demo utilizing the Yelp API](https://github.com/atmikev/YelpSearchDemo)
+
 [A D&D character creation side project I've been working on](https://github.com/atmikev/squire)
+
 [Resume](https://docs.google.com/document/d/1w-604k_DhAxreM7rInAyZ_p35SmFCj1aVCpT_5W8kqQ/edit?usp=sharing)
