@@ -33,6 +33,7 @@ router.get('/', async function(req, res, next) {
         console.log(response.data);
         data[`${endpoint.name}`] = response.data;
       }catch(e){
+        data[`${endpoint.name}`] = [];
         console.log(e);
       }
     }
