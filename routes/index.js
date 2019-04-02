@@ -2,12 +2,6 @@ const express = require('express');
 const router = express.Router();
 const axios = require('axios');
 
-/* 
-Get all the social media info available
-Params:
-@param callbackURL - Called when we receive data from social media sites
-@param pollInterval - How often to check social media sites (in seconds)
-*/
 router.get('/', async function(req, res, next) {
     
     const endpoints = [
