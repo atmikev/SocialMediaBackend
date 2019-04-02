@@ -1,5 +1,10 @@
 # SocialMediaBackend
 
+## Setup
+* Clone the repo
+* Run `npm install` to install dependencies
+* Run `npm start` to start on `localhost:3000`
+
 ## The Problem
 Need to return social media data in a reasonable amount of time. To do that, I've decided to take the simplest route and simply request all 3 endpoints together and send a response once the data has come back.
 
